@@ -1,2 +1,1 @@
-## End to e 
-end ML project
+## End to end ML project
